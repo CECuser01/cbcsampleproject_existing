@@ -6,6 +6,7 @@ metadata:
     パイロット用コード
   tags:
     - html
+    - javascript
   links:
     - title: f5 nginx website
       url: https://www.f5.com/go/product/welcome-to-nginx
