@@ -12,6 +12,8 @@ metadata:
       url: https://www.f5.com/go/product/welcome-to-nginx
     - title: nginx.org
       url: https://nginx.org/en/
+  annotations:
+    backstage.io/managed-by-location: url:http://github.com/backstage/backstage/blob/master/catalog-info.yaml
 spec:
   type: website
   owner: Team-DevOps
